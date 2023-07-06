@@ -1,0 +1,139 @@
+{
+  "Products": [
+    {
+      "id": 1,
+      "Name": "Product A",
+      "Quantity": 10,
+      "Price": 19.99,
+      "Img": "https://i.dummyjson.com/data/products/8/1.jpg",
+      "CategoryId": 1,
+      "Discount": "No discount",
+      "Store": "Store",
+      "isPurchased": "false",
+      "cart": 0
+    },
+    {
+      "id": 2,
+      "Name": "Product B",
+      "Quantity": 5,
+      "Price": 9.99,
+      "Img": "https://i.dummyjson.com/data/products/1/1.jpg",
+      "CategoryId": 2,
+      "Discount": "10%",
+      "Store": "Store",
+      "isPurchased": "false",
+      "cart": 0
+    },
+    {
+      "id": 3,
+      "Name": "Product C",
+      "Quantity": 20,
+      "Price": 29.99,
+      "Img": "https://i.dummyjson.com/data/products/2/1.jpg",
+      "CategoryId": 2,
+      "Discount": "15%",
+      "Store": "Store",
+      "isPurchased": "false",
+      "cart": 0
+    },
+    {
+      "id": 4,
+      "Name": "Product D",
+      "Quantity": 15,
+      "Price": 39.99,
+      "Img": "https://i.dummyjson.com/data/products/3/1.jpg",
+      "CategoryId": 3,
+      "Discount": "10%",
+      "Store": "Store",
+      "isPurchased": "false",
+      "cart": 0
+    },
+    {
+      "id": 5,
+      "Name": "Product E",
+      "Quantity": 8,
+      "Price": 59.99,
+      "Img": "https://i.dummyjson.com/data/products/4/1.jpg",
+      "CategoryId": 2,
+      "Discount": "No discount",
+      "Store": "Store",
+      "isPurchased": "false",
+      "cart": 0
+    },
+    {
+      "id": 6,
+      "Name": "Product F",
+      "Quantity": 12,
+      "Price": 24.99,
+      "Img": "https://i.dummyjson.com/data/products/5/1.jpg",
+      "CategoryId": 2,
+      "Discount": "15%",
+      "Store": "Store",
+      "isPurchased": "false",
+      "cart": 0
+    },
+    {
+      "id": 7,
+      "Name": "Product G",
+      "Quantity": 1,
+      "Price": 49.99,
+      "Img": "https://i.dummyjson.com/data/products/6/2.jpg",
+      "CategoryId": 1,
+      "Discount": "10%",
+      "Store": "Store",
+      "isPurchased": "false",
+      "cart": 0
+    },
+    {
+      "id": 8,
+      "Name": "Product H",
+      "Quantity": 18,
+      "Price": 14.99,
+      "Img": "https://i.dummyjson.com/data/products/7/1.jpg",
+      "CategoryId": 1,
+      "Discount": "No discount",
+      "Store": "Store",
+      "isPurchased": "false",
+      "cart": 0
+    },
+    {
+      "id": 9,
+      "Name": "Product I",
+      "Quantity": 0,
+      "Price": 89.99,
+      "Img": "https://i.dummyjson.com/data/products/8/1.jpg",
+      "CategoryId": 1,
+      "Discount": "15%",
+      "Store": "Store",
+      "isPurchased": "false",
+      "cart": 0
+    },
+    {
+      "id": 10,
+      "Name": "Product J",
+      "Quantity": 25,
+      "Price": 49.99,
+      "Img": "https://i.dummyjson.com/data/products/9/1.jpg",
+      "CategoryId": 1,
+      "Discount": "10%",
+      "Store": "Store",
+      "isPurchased": "false",
+      "cart": 0
+    }
+
+  ],
+  "Cats": [
+    {
+      "id": 1,
+      "Name": "Labtop"
+    },
+    {
+      "id": 2,
+      "Name": "Smart Phone"
+    },
+    {
+      "id": 3,
+      "Name": "Phone"
+    }
+  ]
+}
